@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.21)  31 JUL 2026 15:19
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.21)  31 JUL 2026 15:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -509,8 +509,15 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 140725BE482AD7C7ECC07E1ED70E82C7;4727.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 140725BE482AD7C7ECC07E1ED70E82C7;4727
+(rerunfilecheck)             After:  47CE3DA5E1E49673A8685C805349ACA0;4583.
  ) 
 Here is how much of TeX's memory you used:
  13170 strings out of 468168
