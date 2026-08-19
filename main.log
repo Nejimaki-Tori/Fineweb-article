@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.21)  19 AUG 2026 17:14
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.21)  19 AUG 2026 17:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -522,31 +522,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 460--460
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8] [9] [10] [11] [12] (./main.aux)
+[8] [9]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10] [11] [12] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: B5CA8456AF52A62CFA45DFCA42C6BEEF;5205
-(rerunfilecheck)             After:  5EB9CD06D8E68B9E917C078161E0A7F6;5097.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 5EB9CD06D8E68B9E917C078161E0A7F6;5097.
  ) 
 Here is how much of TeX's memory you used:
- 13186 strings out of 468168
- 260890 string characters out of 5432815
- 736865 words of memory out of 5000000
- 41718 multiletter control sequences out of 15000+600000
+ 13187 strings out of 468168
+ 260895 string characters out of 5432815
+ 736828 words of memory out of 5000000
+ 41719 multiletter control sequences out of 15000+600000
  640018 words of font info for 132 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,10n,93p,679b,448s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,10n,93p,679b,345s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (12 pages).
