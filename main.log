@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.21)  19 AUG 2026 18:01
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.21)  20 AUG 2026 14:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -520,45 +520,45 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 ] [2] [3] [4] [5] [6] [7]
-Underfull \hbox (badness 2237) in paragraph at lines 445--445
+Underfull \hbox (badness 2237) in paragraph at lines 446--446
 []|\TU/TimesNewRoman(1)/m/n/10.95 множество тематических те-
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 446--447
+Underfull \hbox (badness 1292) in paragraph at lines 447--448
 []|\TU/TimesNewRoman(1)/m/n/10.95 определение содержания документа и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 461--461
+Underfull \hbox (badness 10000) in paragraph at lines 462--462
 []|\TU/TimesNewRoman(1)/m/n/10.95 индекс в коллекции, ключ
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8] [9]
+[8] [9] [10]
 File: figures/confusion_educational.png Graphic file (type bmp)
 <figures/confusion_educational.png>
- [10] [11] [12] [13] (./main.aux)
+ [11]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12] [13] [14] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 5EB9CD06D8E68B9E917C078161E0A7F6;5097.
  ) 
 Here is how much of TeX's memory you used:
- 13604 strings out of 468168
- 267208 string characters out of 5432815
- 743325 words of memory out of 5000000
- 42117 multiletter control sequences out of 15000+600000
- 640018 words of font info for 132 fonts, out of 8000000 for 9000
+ 13607 strings out of 468168
+ 267273 string characters out of 5432815
+ 743432 words of memory out of 5000000
+ 42119 multiletter control sequences out of 15000+600000
+ 640026 words of font info for 133 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,10n,93p,679b,345s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,10n,93p,679b,424s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (13 pages).
+Output written on main.pdf (14 pages).
