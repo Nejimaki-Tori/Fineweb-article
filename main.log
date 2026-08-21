@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.21)  21 AUG 2026 13:35
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.21)  21 AUG 2026 14:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -520,38 +520,60 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 ] [2] [3] [4] [5] [6] [7]
-Underfull \hbox (badness 2237) in paragraph at lines 446--446
+Underfull \hbox (badness 2237) in paragraph at lines 443--443
 []|\TU/TimesNewRoman(1)/m/n/10.95 множество тематических те-
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 447--448
+Underfull \hbox (badness 1292) in paragraph at lines 444--445
 []|\TU/TimesNewRoman(1)/m/n/10.95 определение содержания документа и
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 462--462
-[]|\TU/TimesNewRoman(1)/m/n/10.95 индекс в коллекции, ключ
+[]|\TU/TimesNewRoman(1)/m/n/10.95 Надежность ин-
  []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 463--463
+[]|\TU/TimesNewRoman(1)/m/n/10.95 экспериментальная метрика,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--463
+\TU/TimesNewRoman(1)/m/n/10.95 показывающая степень на-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--463
+\TU/TimesNewRoman(1)/m/n/10.95 дежности предоставленной
+ []
+
+
+Underfull \hbox (badness 3199) in paragraph at lines 464--465
+\TU/TimesNewRoman(1)/m/n/10.95 ложиться на информацию, приведен-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--467
+[]|\TU/TimesNewRoman(1)/m/n/10.95 индекс в коллекции, ключ
+ []
 
 [8] [9] [10]
 File: figures/confusion_educational.png Graphic file (type bmp)
 <figures/confusion_educational.png>
  [11]
-Underfull \hbox (badness 1436) in paragraph at lines 661--669
+Underfull \hbox (badness 1436) in paragraph at lines 666--674
 \TU/TimesNewRoman(1)/m/n/12 терные для коммерческого и развлекательного веб-контента. Наиболее частыми те-
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 661--669
+Underfull \hbox (badness 1107) in paragraph at lines 666--674
 \TU/TimesNewRoman(1)/m/n/12 гами оказались \TU/Menlo(1)/m/n/12 #туризм \TU/TimesNewRoman(1)/m/n/12 (1,58 млн документов), \TU/Menlo(1)/m/n/12 #онлайн_магазины \TU/TimesNewRoman(1)/m/n/12 (1,47 млн),
  []
 
 [12]
-Underfull \hbox (badness 1072) in paragraph at lines 757--762
+Underfull \hbox (badness 1072) in paragraph at lines 762--767
 []\TU/TimesNewRoman(1)/m/n/12 Предварительные оценки информационной надежности демонстрируют дополни-
  []
 
@@ -574,6 +596,6 @@ Here is how much of TeX's memory you used:
  42120 multiletter control sequences out of 15000+600000
  640026 words of font info for 133 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,10n,93p,679b,341s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,10n,93p,679b,366s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (16 pages).
