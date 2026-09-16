@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.21)  8 SEP 2026 16:38
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.21)  16 SEP 2026 14:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -519,83 +519,83 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-] [2] [3] [4] [5] [6] [7]
-Underfull \hbox (badness 2237) in paragraph at lines 443--443
+] [2] [3] [4] [5] [6] [7] [8]
+Underfull \hbox (badness 2237) in paragraph at lines 514--514
 []|\TU/TimesNewRoman(1)/m/n/10.95 множество тематических те-
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 444--445
+Underfull \hbox (badness 1292) in paragraph at lines 515--516
 []|\TU/TimesNewRoman(1)/m/n/10.95 определение содержания документа и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 462--462
+Underfull \hbox (badness 10000) in paragraph at lines 533--533
 []|\TU/TimesNewRoman(1)/m/n/10.95 Надежность ин-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 534--534
 []|\TU/TimesNewRoman(1)/m/n/10.95 экспериментальная метрика,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 534--534
 \TU/TimesNewRoman(1)/m/n/10.95 показывающая степень на-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 534--534
 \TU/TimesNewRoman(1)/m/n/10.95 дежности предоставленной
  []
 
 
-Underfull \hbox (badness 3199) in paragraph at lines 464--465
+Underfull \hbox (badness 3199) in paragraph at lines 535--536
 \TU/TimesNewRoman(1)/m/n/10.95 ложиться на информацию, приведен-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 467--467
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
 []|\TU/TimesNewRoman(1)/m/n/10.95 индекс в коллекции, ключ
  []
 
-[8] [9] [10]
+[9] [10] [11]
 File: figures/confusion_educational.png Graphic file (type bmp)
 <figures/confusion_educational.png>
- [11]
-Underfull \hbox (badness 1436) in paragraph at lines 666--674
+
+Underfull \hbox (badness 1436) in paragraph at lines 737--745
 \TU/TimesNewRoman(1)/m/n/12 терные для коммерческого и развлекательного веб-контента. Наиболее частыми те-
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 666--674
+Underfull \hbox (badness 1107) in paragraph at lines 737--745
 \TU/TimesNewRoman(1)/m/n/12 гами оказались \TU/Menlo(1)/m/n/12 #туризм \TU/TimesNewRoman(1)/m/n/12 (1,58 млн документов), \TU/Menlo(1)/m/n/12 #онлайн_магазины \TU/TimesNewRoman(1)/m/n/12 (1,47 млн),
  []
 
-[12]
-Underfull \hbox (badness 1072) in paragraph at lines 762--767
+[12] [13]
+Underfull \hbox (badness 1072) in paragraph at lines 833--838
 []\TU/TimesNewRoman(1)/m/n/12 Предварительные оценки информационной надежности демонстрируют дополни-
  []
 
-[13]
+[14]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[14] [15] [16] [17] [18] [19] (./main.aux)
+[15] [16] [17] [18] [19] [20] [21] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B5D1FF3545663E25893F028D33E32916;4752.
+(rerunfilecheck)             Checksum: F1B9762C0ED6180C672B8036612EE2DF;5508.
  ) 
 Here is how much of TeX's memory you used:
  13610 strings out of 468168
  267343 string characters out of 5432815
- 743378 words of memory out of 5000000
+ 743157 words of memory out of 5000000
  42122 multiletter control sequences out of 15000+600000
  640026 words of font info for 133 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,10n,93p,559b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,10n,93p,559b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (19 pages).
+Output written on main.pdf (21 pages).
