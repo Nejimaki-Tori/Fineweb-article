@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.21)  30 OCT 2026 18:21
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.21)  30 OCT 2026 18:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -520,69 +520,70 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 ] [2] [3] [4] [5] [6]
-Underfull \hbox (badness 2237) in paragraph at lines 382--382
+Underfull \hbox (badness 2237) in paragraph at lines 379--379
 []|\TU/TimesNewRoman(1)/m/n/10.95 множество тематических те-
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 383--384
+Underfull \hbox (badness 1292) in paragraph at lines 380--381
 []|\TU/TimesNewRoman(1)/m/n/10.95 определение содержания документа и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 401--401
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 []|\TU/TimesNewRoman(1)/m/n/10.95 Надежность ин-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 402--402
+Underfull \hbox (badness 10000) in paragraph at lines 399--399
 []|\TU/TimesNewRoman(1)/m/n/10.95 экспериментальная метрика,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 402--402
+Underfull \hbox (badness 10000) in paragraph at lines 399--399
 \TU/TimesNewRoman(1)/m/n/10.95 показывающая степень на-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 402--402
+Underfull \hbox (badness 10000) in paragraph at lines 399--399
 \TU/TimesNewRoman(1)/m/n/10.95 дежности предоставленной
  []
 
 
-Underfull \hbox (badness 3199) in paragraph at lines 403--404
+Underfull \hbox (badness 3199) in paragraph at lines 400--401
 \TU/TimesNewRoman(1)/m/n/10.95 ложиться на информацию, приведен-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--406
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
 []|\TU/TimesNewRoman(1)/m/n/10.95 индекс в коллекции, ключ
  []
 
 [7]
 File: figures/confusion_educational.png Graphic file (type bmp)
 <figures/confusion_educational.png>
- [8] [9]
-Underfull \hbox (badness 1210) in paragraph at lines 538--547
+ [8]
+Underfull \hbox (badness 1210) in paragraph at lines 525--534
 \TU/TimesNewRoman(1)/m/n/12 млн документов), \TU/Menlo(1)/m/n/12 #онлайн_магазины \TU/TimesNewRoman(1)/m/n/12 (1,47 млн), \TU/Menlo(1)/m/n/12 #образование_россии \TU/TimesNewRoman(1)/m/n/12 (1,36
  []
 
-[10]
+[9] [10] [11] [12] [13]
+Underfull \hbox (badness 1668) in paragraph at lines 858--864
+[]\TU/TimesNewRoman(1)/m/n/12 Числовой порог образовательной ценности нельзя напрямую переносить между
+ []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[11] [12] [13] [14] [15] [16] [17]
-Underfull \hbox (badness 1701) in paragraph at lines 1153--1157
+[14] [15] [16] [17]
+Underfull \hbox (badness 1701) in paragraph at lines 1127--1131
 []\TU/TimesNewRoman(1)/m/n/12 GigaChat Team. \TU/TimesNewRoman(1)/m/it/12 GigaChat Family: Efficient Russian Language Modeling Through
  []
 
 
-Underfull \hbox (badness 4699) in paragraph at lines 1159--1163
+Underfull \hbox (badness 4699) in paragraph at lines 1133--1137
 []\TU/TimesNewRoman(1)/m/n/12 A. Nikolich, K. Korolev, S. Bratchikov, I. Kiselev, A. Shelmanov. \TU/TimesNewRoman(1)/m/it/12 Vikhr: The
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 1171--1177
+Underfull \hbox (badness 1067) in paragraph at lines 1145--1151
 \TU/TimesNewRoman(1)/m/it/12 and Benchmark for Evaluating Large Language Models in Russian\TU/TimesNewRoman(1)/m/n/12 . Computational
  []
 
@@ -597,10 +598,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  13640 strings out of 468168
  268112 string characters out of 5432815
- 751593 words of memory out of 5000000
+ 752593 words of memory out of 5000000
  42142 multiletter control sequences out of 15000+600000
  640735 words of font info for 144 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,10n,93p,559b,364s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,10n,93p,559b,448s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (18 pages).
