@@ -32,8 +32,8 @@
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Данные и параметры классификаторов}{8}{subsection.4.1}\protected@file@percent }
 \@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Согласие теггера с разметкой учителя при ограничении top-3}}{8}{table.2}\protected@file@percent }
 \newlabel{tab:tagger-threshold}{{2}{8}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Согласие теггера с разметкой учителя при ограничении top-3}{table.2}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Сопоставление округленных образовательных оценок модели с метками LLM-учителя на выборке 1000 документов}}{9}{figure.1}\protected@file@percent }
-\newlabel{fig:source}{{1}{9}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Сопоставление округленных образовательных оценок модели с метками LLM-учителя на выборке 1000 документов}{figure.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Сопоставление округленных образовательных оценок модели с метками LLM-учителя на случайной выборке 1000 документов}}{9}{figure.1}\protected@file@percent }
+\newlabel{fig:source}{{1}{9}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Сопоставление округленных образовательных оценок модели с метками LLM-учителя на случайной выборке 1000 документов}{figure.1}{}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Анализ качества FineWeb2-rus}{9}{subsection.4.2}\protected@file@percent }
 \@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Средние значения характеристик для отдельных тематических тегов}}{10}{table.3}\protected@file@percent }
 \newlabel{tab:feature-values-by-tags}{{3}{10}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Средние значения характеристик для отдельных тематических тегов}{table.3}{}}
@@ -41,26 +41,24 @@
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Распределение дополнительных характеристик документов}{11}{subsection.4.4}\protected@file@percent }
 \@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Распределение числа тегов на документ после применения теггера}}{12}{table.4}\protected@file@percent }
 \newlabel{tab:tags-per-doc}{{4}{12}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Распределение числа тегов на документ после применения теггера}{table.4}{}}
-\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Доли документов, превышающих заданные пороги}}{12}{table.5}\protected@file@percent }
-\newlabel{tab:feature-thresholds}{{5}{12}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Доли документов, превышающих заданные пороги}{table.5}{}}
-\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Примеры отбора документов по двум модельным характеристикам}}{12}{table.6}\protected@file@percent }
-\newlabel{tab:feature-groups}{{6}{12}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Примеры отбора документов по двум модельным характеристикам}{table.6}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {5}Анализ влияния образовательной ценности на качество LLM}{13}{section.5}\protected@file@percent }
-\newlabel{sec:edu-pretraining}{{5}{13}{Анализ влияния образовательной ценности на качество LLM}{section.5}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Понятие образовательной ценности у современных LLM}{13}{subsection.5.1}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {7}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Согласованность новых оценок с исходной разметкой Qwen}}{14}{table.7}\protected@file@percent }
-\newlabel{tab:edu-old-comparison}{{7}{14}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Согласованность новых оценок с исходной разметкой Qwen}{table.7}{}}
-\@writefile{lot}{\contentsline {table}{\numberline {8}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Попарная согласованность моделей при использовании общей инструкции}}{14}{table.8}\protected@file@percent }
-\newlabel{tab:edu-pairwise}{{8}{14}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Попарная согласованность моделей при использовании общей инструкции}{table.8}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Примеры отбора документов по двум модельным характеристикам}}{12}{table.5}\protected@file@percent }
+\newlabel{tab:feature-groups}{{5}{12}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Примеры отбора документов по двум модельным характеристикам}{table.5}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Анализ влияния образовательной ценности на качество LLM}{12}{section.5}\protected@file@percent }
+\newlabel{sec:edu-pretraining}{{5}{12}{Анализ влияния образовательной ценности на качество LLM}{section.5}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Понятие образовательной ценности у современных LLM}{12}{subsection.5.1}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Согласованность новых оценок с исходной разметкой Qwen}}{13}{table.6}\protected@file@percent }
+\newlabel{tab:edu-old-comparison}{{6}{13}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Согласованность новых оценок с исходной разметкой Qwen}{table.6}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {7}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Попарная согласованность моделей при использовании общей инструкции}}{14}{table.7}\protected@file@percent }
+\newlabel{tab:edu-pairwise}{{7}{14}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Попарная согласованность моделей при использовании общей инструкции}{table.7}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Постановка эксперимента}{14}{subsection.5.2}\protected@file@percent }
 \citation{olmo3}
 \citation{llmtf}
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Постановка эксперимента}{15}{subsection.5.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Метрика оценки}{15}{subsection.5.3}\protected@file@percent }
-\newlabel{eq:llmtf-answer-logprob}{{11}{16}{Метрика оценки}{equation.11}{}}
-\newlabel{eq:llmtf-mean-logprob}{{12}{16}{Метрика оценки}{equation.12}{}}
+\newlabel{eq:llmtf-answer-logprob}{{11}{15}{Метрика оценки}{equation.11}{}}
+\newlabel{eq:llmtf-mean-logprob}{{12}{15}{Метрика оценки}{equation.12}{}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {5.4}Результаты сравнения}{16}{subsection.5.4}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {9}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Отрицательная средняя логарифмическая вероятность эталонных ответов на наборах LLMTF после обучения на Edu и Random}}{16}{table.9}\protected@file@percent }
-\newlabel{tab:edu-random-pretraining}{{9}{16}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Отрицательная средняя логарифмическая вероятность эталонных ответов на наборах LLMTF после обучения на Edu и Random}{table.9}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {8}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Отрицательная средняя логарифмическая вероятность эталонных ответов на наборах LLMTF после обучения на Edu и Random}}{16}{table.8}\protected@file@percent }
+\newlabel{tab:edu-random-pretraining}{{8}{16}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Отрицательная средняя логарифмическая вероятность эталонных ответов на наборах LLMTF после обучения на Edu и Random}{table.8}{}}
 \@writefile{toc}{\contentsline {section}{\numberline {6}Заключение}{17}{section.6}\protected@file@percent }
 \bibcite{pile}{1}
 \bibcite{oscar}{2}
@@ -73,4 +71,4 @@
 \bibcite{vikhr}{9}
 \bibcite{olmo3}{10}
 \bibcite{llmtf}{11}
-\gdef \@abspage@last{19}
+\gdef \@abspage@last{18}
