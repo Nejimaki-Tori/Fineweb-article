@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.21)  30 OCT 2026 18:44
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.21)  30 OCT 2026 21:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -520,42 +520,42 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 ] [2] [3] [4] [5] [6]
-Underfull \hbox (badness 2237) in paragraph at lines 379--379
+Underfull \hbox (badness 2237) in paragraph at lines 374--374
 []|\TU/TimesNewRoman(1)/m/n/10.95 множество тематических те-
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 380--381
+Underfull \hbox (badness 1292) in paragraph at lines 375--376
 []|\TU/TimesNewRoman(1)/m/n/10.95 определение содержания документа и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 398--398
+Underfull \hbox (badness 10000) in paragraph at lines 393--393
 []|\TU/TimesNewRoman(1)/m/n/10.95 Надежность ин-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 399--399
+Underfull \hbox (badness 10000) in paragraph at lines 394--394
 []|\TU/TimesNewRoman(1)/m/n/10.95 экспериментальная метрика,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 399--399
+Underfull \hbox (badness 10000) in paragraph at lines 394--394
 \TU/TimesNewRoman(1)/m/n/10.95 показывающая степень на-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 399--399
+Underfull \hbox (badness 10000) in paragraph at lines 394--394
 \TU/TimesNewRoman(1)/m/n/10.95 дежности предоставленной
  []
 
 
-Underfull \hbox (badness 3199) in paragraph at lines 400--401
+Underfull \hbox (badness 3199) in paragraph at lines 395--396
 \TU/TimesNewRoman(1)/m/n/10.95 ложиться на информацию, приведен-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 []|\TU/TimesNewRoman(1)/m/n/10.95 индекс в коллекции, ключ
  []
 
@@ -563,27 +563,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 403--403
 File: figures/confusion_educational.png Graphic file (type bmp)
 <figures/confusion_educational.png>
  [8]
-Underfull \hbox (badness 1210) in paragraph at lines 525--534
+Underfull \hbox (badness 1210) in paragraph at lines 520--529
 \TU/TimesNewRoman(1)/m/n/12 млн документов), \TU/Menlo(1)/m/n/12 #онлайн_магазины \TU/TimesNewRoman(1)/m/n/12 (1,47 млн), \TU/Menlo(1)/m/n/12 #образование_россии \TU/TimesNewRoman(1)/m/n/12 (1,36
  []
 
 [9] [10] [11] [12] [13]
-Underfull \hbox (badness 1668) in paragraph at lines 858--864
+Underfull \hbox (badness 1668) in paragraph at lines 853--859
 []\TU/TimesNewRoman(1)/m/n/12 Числовой порог образовательной ценности нельзя напрямую переносить между
  []
 
 [14] [15] [16] [17]
-Underfull \hbox (badness 1701) in paragraph at lines 1127--1131
+Underfull \hbox (badness 1701) in paragraph at lines 1122--1126
 []\TU/TimesNewRoman(1)/m/n/12 GigaChat Team. \TU/TimesNewRoman(1)/m/it/12 GigaChat Family: Efficient Russian Language Modeling Through
  []
 
 
-Underfull \hbox (badness 4699) in paragraph at lines 1133--1137
+Underfull \hbox (badness 4699) in paragraph at lines 1128--1132
 []\TU/TimesNewRoman(1)/m/n/12 A. Nikolich, K. Korolev, S. Bratchikov, I. Kiselev, A. Shelmanov. \TU/TimesNewRoman(1)/m/it/12 Vikhr: The
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 1145--1151
+Underfull \hbox (badness 1067) in paragraph at lines 1140--1146
 \TU/TimesNewRoman(1)/m/it/12 and Benchmark for Evaluating Large Language Models in Russian\TU/TimesNewRoman(1)/m/n/12 . Computational
  []
 
@@ -592,16 +592,20 @@ Underfull \hbox (badness 1067) in paragraph at lines 1145--1151
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 118607A5C763DE29F5042A7272E17780;6633.
+(rerunfilecheck)             Checksum: 3E2442821B7A3392AD60F57144B905B8;6913.
  ) 
 Here is how much of TeX's memory you used:
  13640 strings out of 468168
  268112 string characters out of 5432815
- 752593 words of memory out of 5000000
+ 752872 words of memory out of 5000000
  42142 multiletter control sequences out of 15000+600000
  640735 words of font info for 144 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,10n,93p,559b,448s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,10n,93p,599b,448s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (18 pages).
